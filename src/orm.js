@@ -2,7 +2,7 @@
 import connect from "./connect"
 import query from "./query"
 
-export default {
+export {
 	connect,
 	query,
 }
