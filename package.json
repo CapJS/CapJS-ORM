@@ -1,0 +1,22 @@
+{
+  "name": "capjs-orm",
+  "version": "1.0.0",
+  "description": "This is a easy ORM Structure Manager. Which load any database.",
+  "main": "lib/orm.js",
+  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/CapJS/capjs-orm.git"
+  },
+  "keywords": [
+    "ORM",
+    "Framework",
+    "CapJS"
+  ],
+  "author": "Jon Dotsoy <hi@jon.soy>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/CapJS/capjs-orm/issues"
+  },
+  "homepage": "https://github.com/CapJS/capjs-orm#readme"
+}
