@@ -2,8 +2,9 @@
   "name": "capjs-orm",
   "version": "1.0.0",
   "description": "This is a easy ORM Structure Manager. Which load any database.",
-  "main": "lib/orm.js",
-  "scripts": {},
+  "main": "lib/connect.js",
+  "scripts": {
+  },
   "repository": {
     "type": "git",
     "url": "git+https://github.com/CapJS/capjs-orm.git"
@@ -18,5 +19,11 @@
   "bugs": {
     "url": "https://github.com/CapJS/capjs-orm/issues"
   },
-  "homepage": "https://github.com/CapJS/capjs-orm#readme"
+  "homepage": "https://github.com/CapJS/capjs-orm#readme",
+  "devDependencies": {
+    "babel-preset-es2015": "^6.1.18",
+    "gulp": "^3.9.0",
+    "gulp-babel": "^6.1.0",
+    "gulp-util": "^3.0.7"
+  }
 }
