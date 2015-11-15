@@ -2,7 +2,7 @@
   "name": "capjs-orm",
   "version": "1.0.0",
   "description": "This is a easy ORM Structure Manager. Which load any database.",
-  "main": "lib/connect.js",
+  "main": "lib/orm.js",
   "scripts": {
   },
   "repository": {
