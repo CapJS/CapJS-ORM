@@ -3,9 +3,13 @@
 */
 
 export default class connect {
-	constructor () {
+	constructor (...opts) {
 		// connect
 		this.connect;
+		this.options = opts;
+	}
+	connect (...opts) {
+		return new Promise();
 	}
 }
 
